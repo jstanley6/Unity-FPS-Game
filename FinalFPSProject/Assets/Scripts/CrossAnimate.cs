@@ -36,7 +36,7 @@ public class CrossAnimate : MonoBehaviour {
                 StartCoroutine(WaitingAnim());
             }
         }
-	}
+    }
 
     IEnumerator WaitingAnim()
     {

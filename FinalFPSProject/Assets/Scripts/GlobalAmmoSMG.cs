@@ -23,8 +23,6 @@ public class GlobalAmmoSMG : MonoBehaviour {
         internalAmmo = currentAmmo;
         internalLoaded = loadedAmmo;
         ammoDisplay.GetComponent<Text>().text = "" + internalAmmo;
-       
         loadedDisplay.GetComponent<Text>().text = "" + loadedAmmo;
-// Debug.Log(ammoDisplay.GetComponent<Text>().text = "#######################################  " + internalAmmo + "  #######################################");
     }
 }

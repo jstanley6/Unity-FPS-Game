@@ -3560,14 +3560,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   smg: {fileID: 1652705516}
-  soundSMG: {fileID: 898652404}
-  muzzleFlash: {fileID: 2116316202}
   ammoCount: 0
   firing: 0
   upCurs: {fileID: 95034725}
   rightCurs: {fileID: 1254216290}
   downCurs: {fileID: 527211023}
   leftCurs: {fileID: 1923105184}
+  soundSMG: {fileID: 898652404}
 --- !u!4 &716973305
 Transform:
   m_ObjectHideFlags: 0
